@@ -13,5 +13,3 @@ ACTUALIZACION URGENTE: Todos los sistemas operativos.
 
 Corrigiendo bug T2-14
 
-
-
